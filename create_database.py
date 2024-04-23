@@ -9,7 +9,7 @@ import shutil
 CHROMA_PATH = "chroma"
 DATA_PATH = "data"
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "your API key here"
 def main():
     generate_store_data()
 
