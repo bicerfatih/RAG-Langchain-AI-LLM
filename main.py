@@ -4,7 +4,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 import argparse
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "your API key here"
 
 CHROMA_PATH = "chroma"
 
